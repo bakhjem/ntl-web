@@ -1,0 +1,39 @@
+.font-IntelBold {
+    font-weight: bold;
+}
+
+.text-tracuu {
+    font-size: 48px;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.pt-3,
+.py-3 {
+    padding-top: 1rem !important;
+}
+
+.mb-4,
+.my-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+.font-size-24 {
+    font-size: 24px;
+}
+.SanFranciscoDisplay-Bold {
+    font-weight: bold;
+}
